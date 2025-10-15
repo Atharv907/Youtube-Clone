@@ -1,0 +1,9 @@
+
+{
+  "short_name": "YouTube Clone",
+  "name": "YouTube Clone - Full Featured Video Platform",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff0000",
+  "background_color": "#0f0f0f"
+}
